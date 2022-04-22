@@ -1,1 +1,1 @@
-# Lyft Backend internship module 3
+# Lyft Backend internship repository
